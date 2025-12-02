@@ -1,0 +1,1 @@
+print('g_var:', g_var)
